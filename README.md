@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is **Abhishek Mall** and I’m a PhD researcher and data scientist in applied AI for physics, based in Hamburg, Germany.</p>
+<p align="left">My name is Abhishek Mall and I am a PhD researcher in Physics, implemting tools of data science and applied AI, based in Hamburg, Germany.</p>
 
 ###
 
@@ -11,10 +11,10 @@
 ###
 
 <p align="left">
-✨ Creating bugs since **2013**<br>
-📚 I’m currently learning advanced generative AI techniques and deep probabilistic models<br>
-🎯 Goals: Push the boundaries of computational nanoscale imaging and build AI tools that accelerate scientific discovery<br>
-🎲 Fun fact: I’ve processed **1.2 petabytes** of diffraction data to uncover viral structural dynamics
+✨ Solving bugs since 2013<br>
+📚 I’m currently developing ML pipelines to handle petabytes of data. <br>
+🎯 Goals: Build AI tools that accelerate scientific discover.<br>
+🎲 Favourite Quote:  Programming is not about what you know, it's about what you can figure out.  
 </p>
 
 ###

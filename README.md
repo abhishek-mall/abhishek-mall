@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  My name is **Abhishek Mall** and I am a PhD researcher in Physics, implementing tools of data science and applied AI, based in Hamburg, Germany.
+  My name is Abhishek Mall and I am a PhD researcher in Physics, implementing tools of data science and applied AI, based in Hamburg, Germany.
 </p>
 
 ###

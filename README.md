@@ -1,4 +1,4 @@
-<h1 align="left">Who's Abhishek and What's He Building? 🧑‍💻 📊</h1>
+<h1 align="left">Hey, What's up? 🧑‍💻📊</h1>
 
 ###
 

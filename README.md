@@ -3,23 +3,21 @@
 ###
 
 <p align="left">
-  I am Abhishek. As a data scientist, I am passionate about applying ML and data analytics to solve real-world problems and make informed decisions. 
-  I am doing my PhD in Physics at Max Planck Institute for the Structure and Dynamics of Matter in Hamburg, Germany.
+  I am Abhishek. As a data scientist, I am passionate about applying machine learning and data analytics to solve real-world problems and make informed decisions. Currently, I am doing my PhD in Physics at Max Planck Institute for the Structure and Dynamics of Matter in Hamburg, Germany.
 
-  In my recent role, I develop new methods based on ML for nanoscale imaging using X-rays. Within this area, I am work on developing data analysis algorithms, often involving the solving of ill-posed inverse problems.  
-  I have expertise in big data analysis and visualization, DL, Python and several other tools and frameworks that enable me to handle complex and large-scale data challenges.  
+  In my recent role, I develop new methods based on machine learning for nanoscale imaging using X-rays. Within this area, I work on developing data analysis algorithms, often involving the solving of ill-posed inverse problems. I have expertise in statistical analysis and visualization, deep learning, Python and several other tools and frameworks that enable me to handle complex and large-scale data challenges.  
 </p>
 
 ###
 
-<h2 align="left">About me ... </h2>
+<h2 align="left">Pointers about me ... </h2>
 
 ###
 
 <p align="left">
   ✨ Solving bugs since 2013.<br>
-  📚 I am currently developing ML based anaylsis pipelines to handle petabytes of data.<br>
-  🎯 Goals: Build AI tools that accelerate scientific discovery.<br>
+  📚 I am currently developing machine learning based anaylsis pipelines to handle petabytes of data.<br>
+  🎯 Goals: Build AI tools that accelerate human knowledge and discovery.<br>
   🎲 Favourite Quote: “Programming is not about what you know, it's about what you can figure out.”<br>
   🌐 <strong><a href="https://abhishek-mall.github.io" target="_blank">My Portfolio</a></strong>
 </p>

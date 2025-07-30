@@ -3,7 +3,11 @@
 ###
 
 <p align="left">
-  I'm Abhishek. Data Sceintist with expertise in developing ML pipelines, optimization techniques, data modelling and visulaization.  
+  I am Abhishek. As a data scientist, I am passionate about applying ML and data analytics to solve real-world problems and make informed decisions. 
+  I am doing my PhD in Physics at Max Planck Institute for the Structure and Dynamics of Matter in Hamburg, Germany.
+
+  In my recent role, I develop new methods based on ML for nanoscale imaging using X-rays. Within this area, I am work on developing data analysis algorithms, often involving the solving of ill-posed inverse problems.  
+  I have expertise in big data analysis and visualization, DL, Python and several other tools and frameworks that enable me to handle complex and large-scale data challenges.  
 </p>
 
 ###
@@ -51,7 +55,7 @@
 
 ###
 
-<h2 align="left">📬 Connect with Me</h2>
+<h2 align="left">📬 Connect with me ... </h2>
 
 <p align="left">
   🔗 <strong><a href="https://www.linkedin.com/in/abhishek-mall/" target="_blank">LinkedIn</a></strong><br>

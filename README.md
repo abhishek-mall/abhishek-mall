@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  My name is Abhishek Mall and I am a PhD researcher in Physics, implementing tools of data science and applied AI.
+  I'm Abhishek. Data Sceintist with expertise in developing ML pipelines, optimization techniques, data modelling and visulaization.  
 </p>
 
 ###
@@ -14,10 +14,10 @@
 
 <p align="left">
   ✨ Solving bugs since 2013.<br>
-  📚 I’m currently developing ML pipelines to handle petabytes of data.<br>
+  📚 I am currently developing ML based anaylsis pipelines to handle petabytes of data.<br>
   🎯 Goals: Build AI tools that accelerate scientific discovery.<br>
   🎲 Favourite Quote: “Programming is not about what you know, it's about what you can figure out.”<br>
-  🌐 <strong><a href="https://abhishek-mall.github.io" target="_blank"> My Portfolio</a></strong>
+  🌐 <strong><a href="https://abhishek-mall.github.io" target="_blank">My Portfolio</a></strong>
 </p>
 
 ###

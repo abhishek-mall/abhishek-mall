@@ -1,21 +1,23 @@
 <div align="center">
 
-# Hi, What's Up!
-*• Building scalable ML systems for big-data challenges •*
-
-<br/>
+# Abhishek Mall
+* • Building scalable ML systems for big-data challenges • *
 
 <p align="center">
-  <a href="https://abhishek-mall.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-abhishek--mall.github.io-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="https://abhishek-mall.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/abhishek-mall/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Mall-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/abhishek-mall/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:abhishekmall101iitb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abhishekmall101iitb%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
+---
+
+</div>
 
 
 ### 💻 Tech Stack
@@ -33,4 +35,3 @@
   <img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git" alt="Git" />
 </p>
 
-</div>

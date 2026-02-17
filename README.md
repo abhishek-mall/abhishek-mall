@@ -1,7 +1,7 @@
 <div align="center">
 
-# Abhishek Mall
-**AI Engineer & Researcher @ Max Planck Institute** *Building scalable ML systems for big-data challenges.*
+# Hi, What's Up!
+*• Building scalable ML systems for big-data challenges •*
 
 [Portfolio](https://abhishek-mall.github.io) • [LinkedIn](https://www.linkedin.com/in/abhishek-mall/) • [Email](mailto:abhishekmall101iitb@gmail.com)
 

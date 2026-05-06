@@ -3,9 +3,9 @@
 ###
 
 <p align="left">
-  I am Abhishek. As an AI researcher, I am passionate about applying machine learning and data analytics to solve real-world problems and make informed decisions. Currently, I am a Postdoctoral Researcher at Max Planck Institute for the Structure and Dynamics of Matter in Hamburg, Germany.
+  I am Abhishek — a data scientist specializing in AI/ML. I am passionate about applying machine learning and data analytics to solve real-world problems and make informed decisions. Currently, I am a Postdoctoral Researcher at Max Planck Institute for the Structure and Dynamics of Matter in Hamburg, Germany.
 
-  In my recent role, I develop new methods based on machine learning for nanoscale imaging using X-rays. Within this area, I work on developing data analysis algorithms, often involving the solving of ill-posed inverse problems. I have expertise in statistical analysis and visualization, deep learning, Python and several other tools and frameworks that enable me to handle complex and large-scale data challenges.  
+  In my recent role, I develop ETL pipeline based on machine learning for petabytes of image data. Within this area, I work on developing data analysis algorithms, often involving the solving of ill-posed inverse problems. I have expertise in statistical analysis and visualization, deep learning, Python and several other tools and frameworks that enable me to handle complex and large-scale data challenges.  
 </p>
 
 ###

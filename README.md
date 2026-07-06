@@ -19,7 +19,6 @@
   📚 I am currently developing machine learning based anaylsis pipelines to handle petabytes of data.<br>
   🎯 Goals: Build AI tools that accelerate human knowledge and discovery.<br>
   🎲 Favourite Quote: “Programming is not about what you know, it's about what you can figure out.”<br>
-  🌐 <strong><a href="https://abhishek-mall.github.io" target="_blank">My Portfolio</a></strong>
 </p>
 
 ###

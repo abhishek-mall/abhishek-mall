@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&pause=1000&color=3B82F6&center=true&vCenter=true&width=1000&height=90&lines=Hey%2C+What%27s+up%3F+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Hey, What's up" />
 </h1>
----
 
 <p align="left">
   I am <strong>Abhishek</strong> — a data scientist specializing in AI/ML. I am passionate about applying machine learning and data analytics to solve real-world problems and drive informed decision-making.

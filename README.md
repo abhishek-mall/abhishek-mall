@@ -1,25 +1,22 @@
-Python 3.10.12 (main, Nov 20 2023, 15:14:05) [GCC 11.4.0] on linux
-Type "help", "copyright", "credits" or "license" for more information.
+# Hi, I'm Abhishek 🧑‍💻📊
 
->>> from developers import DataScientist
->>> abhishek = DataScientist(name="Abhishek Mall")
->>>
->>> abhishek.get_background()
-"PhD in Physics from Max Planck Institute. Specializing in AI/ML and ETL pipelines."
->>>
->>> abhishek.get_tech_stack()
-{
-...     "Languages": ["Python"],
-...     "Deep Learning": ["PyTorch", "TensorFlow"],
-...     "Data Analytics": ["NumPy", "Pandas", "Scikit-learn", "CuPy"],
-...     "Visualization": ["Plotly", "Matplotlib", "Seaborn"],
-...     "Infrastructure": ["HPC", "Slurm"],
-...     "Tools": ["Git", "VS Code", "Jupyter", "Vim"]
-... }
->>>
->>> abhishek.get_current_status()
-"Developing machine learning based analysis pipelines to handle petabytes of data."
->>>
->>> abhishek.get_contact_info()
-{"LinkedIn": "linkedin.com/in/abhishek-mall", "Email": "abhishekmall101iitb@gmail.com"}
->>>
+> **AI/ML Data Scientist** | PhD in Physics (Max Planck Institute)
+> I specialize in building machine learning ETL pipelines to handle petabytes of data and solving complex inverse problems.
+
+### 🛠️ Tech Stack & Tools
+**Languages & Frameworks:**
+`Python` `PyTorch` `TensorFlow` `Scikit-Learn` `Pandas` `NumPy` `CuPy` 
+
+**Visualization:**
+`Plotly` `Matplotlib` `Seaborn`
+
+**Infrastructure & Tools:**
+`HPC` `Slurm` `Git` `VS Code` `Jupyter` `Vim`
+
+### 🎯 Quick Facts
+- ✨ **Experience:** Solving bugs since 2013.
+- 🚀 **Mission:** Build AI tools that accelerate human knowledge and discovery.
+- 💬 **Quote:** *"Programming is not about what you know, it's about what you can figure out."*
+
+### 📬 Let's Connect
+[LinkedIn](https://www.linkedin.com/in/abhishek-mall/) • [Email](mailto:abhishekmall101iitb@gmail.com)

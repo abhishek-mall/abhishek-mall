@@ -1,6 +1,6 @@
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=32&pause=1000&color=2F80ED&width=500&lines=Hey,+What's+up?+🧑‍💻📊" alt="Hey, What's up?" />
-</p>
+<h1 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=3B82F6&width=500&lines=Hey,+What's+up?+🧑‍💻📊" alt="Hey, What's up?" />
+</h1>
 
 ###
 

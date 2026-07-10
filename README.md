@@ -14,8 +14,6 @@
   My work focuses on building scalable ETL pipelines powered by machine learning to process <strong>petabytes of image data</strong>. I specialize in solving <strong>ill-posed inverse problems</strong>, along with deep expertise in statistical analysis, visualization, and large-scale data systems.
 </p>
 
----
-
 <h2 align="left">✨ About Me</h2>
 
 <p align="left">
@@ -24,8 +22,6 @@
   🎯 Goal: Build AI tools that accelerate human knowledge and discovery <br>
   🎲 Favourite Quote: <em>"Programming is not about what you know, it's about what you can figure out."</em>
 </p>
-
----
 
 <h2 align="left">💻 Tech Stack</h2>
 
@@ -44,8 +40,6 @@
   <img src="https://img.shields.io/badge/-Slurm-000?style=for-the-badge" />
 </p>
 
----
-
 <h2 align="left">🛠️ Tools</h2>
 
 <p align="left">
@@ -55,8 +49,6 @@
   <img src="https://img.shields.io/badge/-Jupyter-000?style=for-the-badge&logo=jupyter" />&nbsp;
   <img src="https://img.shields.io/badge/-Vim-000?style=for-the-badge&logo=vim" />
 </p>
-
----
 
 <h2 align="left">📬 Connect with Me</h2>
 
